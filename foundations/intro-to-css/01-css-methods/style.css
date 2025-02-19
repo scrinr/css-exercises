@@ -1,0 +1,11 @@
+/*a red background, white text, a font size of 32px, center aligned, and bold*/
+
+div{
+    background-color: yellowgreen;
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 5px;
+    border: solid #000 5px;
+}
